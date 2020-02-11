@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Zeep zop zoom
 Use the left arrow to go back!
